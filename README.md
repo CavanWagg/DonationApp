@@ -1,5 +1,20 @@
 # The Love Foundation
 
+*Homepage*
+
+![Screenshot](https://cl.ly/620afce0be28/Image%2525202018-08-25%252520at%25252011.43.34%252520AM.png)
+
+*Donation page*
+
+![Screenshot](https://cl.ly/dd0aba9a0833/Image%2525202018-08-25%252520at%25252011.45.03%252520AM.png)
+
+*Stripe Checkout Component, allows the use of test credit cards*
+
+![Screenshot](https://cl.ly/df778d64239b/Image%2525202018-08-25%252520at%25252011.45.23%252520AM.png)
+
+*Login Page to save payment information and signup for monthly donation*
+
+![Screenshot](https://cl.ly/8c166689405c/Image%2525202018-08-25%252520at%25252011.45.53%252520AM.png)
 
 
 
